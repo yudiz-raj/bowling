@@ -1,0 +1,1612 @@
+{
+    "anims": [
+        {
+            "key": "player-animation",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player_0",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_7",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_8",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_9",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_14",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_15",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_16",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_17",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_18",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_19",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_20",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_21",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_22",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_23",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_24",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_25",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_26",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_27",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_28",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_29",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_30",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_31",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_32",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_33",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_34",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player_35",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "arrow-animation",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "effect-arrow",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 8,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 9,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "effect-arrow",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 45,
+            "skipMissedFrames": true,
+            "yoyo": true
+        },
+        {
+            "key": "bottle-animation-1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 8,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 9,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bottle-animation-2",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bottle-animation-3",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 20,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 21,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 22,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 23,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 24,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 25,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 26,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 27,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 28,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 29,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bottle-animation-4",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 30,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 31,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 32,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 33,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 34,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 35,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 36,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 37,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 38,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 39,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bottle-animation-5",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 40,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 41,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 42,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 43,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 44,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 45,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 46,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 47,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 48,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 49,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bottle-animation-6",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 50,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 51,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 52,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 53,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 54,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 55,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 56,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 57,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 58,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 59,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bottle-animation-7",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 60,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 61,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 62,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 63,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 64,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 65,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 66,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 67,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 68,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 69,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bottle-animation-8",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bottle",
+                    "frame": 70,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 71,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 72,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 73,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 74,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 75,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 76,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 77,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 78,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bottle",
+                    "frame": 79,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pinBinder-animation",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pin-binder",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 8,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 9,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 20,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 21,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 22,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 23,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 24,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 25,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 26,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 27,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 28,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 29,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 30,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pin-binder",
+                    "frame": 31,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "yoyo": true
+        },
+        {
+            "key": "gutterball-animation",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "monitor_gutterball_0",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_7",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_8",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_9",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_14",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_15",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_16",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_17",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_18",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_19",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_20",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_21",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_22",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_23",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_24",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_25",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_26",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_27",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_28",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_29",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_30",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_31",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_32",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_33",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_34",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_35",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_36",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_37",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_38",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_39",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_40",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_41",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_42",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_43",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_44",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_45",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_46",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_47",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_48",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_49",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_50",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_gutterball_51",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "strike-animation",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "monitor_strike_0",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_7",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_8",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_9",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_14",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_15",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_16",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_17",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_18",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_19",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_20",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_21",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_22",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_23",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_24",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_25",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_26",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_27",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_28",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_29",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_30",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_31",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_32",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_33",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_34",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_35",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_36",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_37",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_38",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_39",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_40",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_41",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_42",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_43",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_44",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_45",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_46",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_47",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_48",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_49",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_50",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "monitor_strike_51",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

@@ -1,0 +1,855 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/200x200.jpg",
+                "type": "image",
+                "key": "200x200"
+            },
+            {
+                "url": "assets/animations/animation.json",
+                "type": "animation",
+                "key": "animation"
+            },
+            {
+                "url": "assets/images/arrow-left.png",
+                "type": "image",
+                "key": "arrow-left"
+            },
+            {
+                "url": "assets/images/arrow-right.png",
+                "type": "image",
+                "key": "arrow-right"
+            },
+            {
+                "url": "assets/images/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/images/bottle.png",
+                "frameConfig": {
+                    "frameWidth": 84,
+                    "frameHeight": 49,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "bottle"
+            },
+            {
+                "url": "assets/bottle.json",
+                "type": "json",
+                "key": "bottle_body"
+            },
+            {
+                "url": "assets/images/bowling-track.png",
+                "type": "image",
+                "key": "bowling-track"
+            },
+            {
+                "url": "assets/images/button-continue.png",
+                "type": "image",
+                "key": "button-continue"
+            },
+            {
+                "url": "assets/images/button-play.png",
+                "type": "image",
+                "key": "button-play"
+            },
+            {
+                "url": "assets/images/effect-arrow.png",
+                "frameConfig": {
+                    "frameWidth": 144,
+                    "frameHeight": 336,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "effect-arrow"
+            },
+            {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "src/scenes/Home.js",
+                "type": "sceneFile",
+                "key": "Home"
+            },
+            {
+                "url": "src/scripts/InputManager.js",
+                "type": "script",
+                "key": "InputManager"
+            },
+            {
+                "url": "assets/images/monitor/monitor.jpg",
+                "type": "image",
+                "key": "monitor"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_0.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_0"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_1.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_1"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_10.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_10"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_11.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_11"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_12.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_12"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_13.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_13"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_14.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_14"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_15.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_15"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_16.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_16"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_17.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_17"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_18.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_18"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_19.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_19"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_2.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_2"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_20.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_20"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_21.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_21"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_22.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_22"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_23.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_23"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_24.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_24"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_25.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_25"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_26.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_26"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_27.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_27"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_28.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_28"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_29.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_29"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_3.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_3"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_30.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_30"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_31.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_31"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_32.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_32"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_33.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_33"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_34.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_34"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_35.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_35"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_36.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_36"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_37.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_37"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_38.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_38"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_39.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_39"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_4.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_4"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_40.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_40"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_41.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_41"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_42.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_42"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_43.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_43"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_44.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_44"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_45.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_45"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_46.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_46"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_47.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_47"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_48.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_48"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_49.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_49"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_5.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_5"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_50.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_50"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_51.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_51"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_6.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_6"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_7.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_7"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_8.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_8"
+            },
+            {
+                "url": "assets/images/monitor/monitor_gutterball_9.jpg",
+                "type": "image",
+                "key": "monitor_gutterball_9"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_0.jpg",
+                "type": "image",
+                "key": "monitor_strike_0"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_1.jpg",
+                "type": "image",
+                "key": "monitor_strike_1"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_10.jpg",
+                "type": "image",
+                "key": "monitor_strike_10"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_11.jpg",
+                "type": "image",
+                "key": "monitor_strike_11"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_12.jpg",
+                "type": "image",
+                "key": "monitor_strike_12"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_13.jpg",
+                "type": "image",
+                "key": "monitor_strike_13"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_14.jpg",
+                "type": "image",
+                "key": "monitor_strike_14"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_15.jpg",
+                "type": "image",
+                "key": "monitor_strike_15"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_16.jpg",
+                "type": "image",
+                "key": "monitor_strike_16"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_17.jpg",
+                "type": "image",
+                "key": "monitor_strike_17"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_18.jpg",
+                "type": "image",
+                "key": "monitor_strike_18"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_19.jpg",
+                "type": "image",
+                "key": "monitor_strike_19"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_2.jpg",
+                "type": "image",
+                "key": "monitor_strike_2"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_20.jpg",
+                "type": "image",
+                "key": "monitor_strike_20"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_21.jpg",
+                "type": "image",
+                "key": "monitor_strike_21"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_22.jpg",
+                "type": "image",
+                "key": "monitor_strike_22"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_23.jpg",
+                "type": "image",
+                "key": "monitor_strike_23"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_24.jpg",
+                "type": "image",
+                "key": "monitor_strike_24"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_25.jpg",
+                "type": "image",
+                "key": "monitor_strike_25"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_26.jpg",
+                "type": "image",
+                "key": "monitor_strike_26"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_27.jpg",
+                "type": "image",
+                "key": "monitor_strike_27"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_28.jpg",
+                "type": "image",
+                "key": "monitor_strike_28"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_29.jpg",
+                "type": "image",
+                "key": "monitor_strike_29"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_3.jpg",
+                "type": "image",
+                "key": "monitor_strike_3"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_30.jpg",
+                "type": "image",
+                "key": "monitor_strike_30"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_31.jpg",
+                "type": "image",
+                "key": "monitor_strike_31"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_32.jpg",
+                "type": "image",
+                "key": "monitor_strike_32"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_33.jpg",
+                "type": "image",
+                "key": "monitor_strike_33"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_34.jpg",
+                "type": "image",
+                "key": "monitor_strike_34"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_35.jpg",
+                "type": "image",
+                "key": "monitor_strike_35"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_36.jpg",
+                "type": "image",
+                "key": "monitor_strike_36"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_37.jpg",
+                "type": "image",
+                "key": "monitor_strike_37"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_38.jpg",
+                "type": "image",
+                "key": "monitor_strike_38"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_39.jpg",
+                "type": "image",
+                "key": "monitor_strike_39"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_4.jpg",
+                "type": "image",
+                "key": "monitor_strike_4"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_40.jpg",
+                "type": "image",
+                "key": "monitor_strike_40"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_41.jpg",
+                "type": "image",
+                "key": "monitor_strike_41"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_42.jpg",
+                "type": "image",
+                "key": "monitor_strike_42"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_43.jpg",
+                "type": "image",
+                "key": "monitor_strike_43"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_44.jpg",
+                "type": "image",
+                "key": "monitor_strike_44"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_45.jpg",
+                "type": "image",
+                "key": "monitor_strike_45"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_46.jpg",
+                "type": "image",
+                "key": "monitor_strike_46"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_47.jpg",
+                "type": "image",
+                "key": "monitor_strike_47"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_48.jpg",
+                "type": "image",
+                "key": "monitor_strike_48"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_49.jpg",
+                "type": "image",
+                "key": "monitor_strike_49"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_5.jpg",
+                "type": "image",
+                "key": "monitor_strike_5"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_50.jpg",
+                "type": "image",
+                "key": "monitor_strike_50"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_51.jpg",
+                "type": "image",
+                "key": "monitor_strike_51"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_6.jpg",
+                "type": "image",
+                "key": "monitor_strike_6"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_7.jpg",
+                "type": "image",
+                "key": "monitor_strike_7"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_8.jpg",
+                "type": "image",
+                "key": "monitor_strike_8"
+            },
+            {
+                "url": "assets/images/monitor/monitor_strike_9.jpg",
+                "type": "image",
+                "key": "monitor_strike_9"
+            },
+            {
+                "url": "assets/images/pin-binder.png",
+                "frameConfig": {
+                    "frameWidth": 154,
+                    "frameHeight": 112,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "pin-binder"
+            },
+            {
+                "url": "assets/images/player/player_0.png",
+                "type": "image",
+                "key": "player_0"
+            },
+            {
+                "url": "assets/images/player/player_1.png",
+                "type": "image",
+                "key": "player_1"
+            },
+            {
+                "url": "assets/images/player/player_10.png",
+                "type": "image",
+                "key": "player_10"
+            },
+            {
+                "url": "assets/images/player/player_11.png",
+                "type": "image",
+                "key": "player_11"
+            },
+            {
+                "url": "assets/images/player/player_12.png",
+                "type": "image",
+                "key": "player_12"
+            },
+            {
+                "url": "assets/images/player/player_13.png",
+                "type": "image",
+                "key": "player_13"
+            },
+            {
+                "url": "assets/images/player/player_14.png",
+                "type": "image",
+                "key": "player_14"
+            },
+            {
+                "url": "assets/images/player/player_15.png",
+                "type": "image",
+                "key": "player_15"
+            },
+            {
+                "url": "assets/images/player/player_16.png",
+                "type": "image",
+                "key": "player_16"
+            },
+            {
+                "url": "assets/images/player/player_17.png",
+                "type": "image",
+                "key": "player_17"
+            },
+            {
+                "url": "assets/images/player/player_18.png",
+                "type": "image",
+                "key": "player_18"
+            },
+            {
+                "url": "assets/images/player/player_19.png",
+                "type": "image",
+                "key": "player_19"
+            },
+            {
+                "url": "assets/images/player/player_2.png",
+                "type": "image",
+                "key": "player_2"
+            },
+            {
+                "url": "assets/images/player/player_20.png",
+                "type": "image",
+                "key": "player_20"
+            },
+            {
+                "url": "assets/images/player/player_21.png",
+                "type": "image",
+                "key": "player_21"
+            },
+            {
+                "url": "assets/images/player/player_22.png",
+                "type": "image",
+                "key": "player_22"
+            },
+            {
+                "url": "assets/images/player/player_23.png",
+                "type": "image",
+                "key": "player_23"
+            },
+            {
+                "url": "assets/images/player/player_24.png",
+                "type": "image",
+                "key": "player_24"
+            },
+            {
+                "url": "assets/images/player/player_25.png",
+                "type": "image",
+                "key": "player_25"
+            },
+            {
+                "url": "assets/images/player/player_26.png",
+                "type": "image",
+                "key": "player_26"
+            },
+            {
+                "url": "assets/images/player/player_27.png",
+                "type": "image",
+                "key": "player_27"
+            },
+            {
+                "url": "assets/images/player/player_28.png",
+                "type": "image",
+                "key": "player_28"
+            },
+            {
+                "url": "assets/images/player/player_29.png",
+                "type": "image",
+                "key": "player_29"
+            },
+            {
+                "url": "assets/images/player/player_3.png",
+                "type": "image",
+                "key": "player_3"
+            },
+            {
+                "url": "assets/images/player/player_30.png",
+                "type": "image",
+                "key": "player_30"
+            },
+            {
+                "url": "assets/images/player/player_31.png",
+                "type": "image",
+                "key": "player_31"
+            },
+            {
+                "url": "assets/images/player/player_32.png",
+                "type": "image",
+                "key": "player_32"
+            },
+            {
+                "url": "assets/images/player/player_33.png",
+                "type": "image",
+                "key": "player_33"
+            },
+            {
+                "url": "assets/images/player/player_34.png",
+                "type": "image",
+                "key": "player_34"
+            },
+            {
+                "url": "assets/images/player/player_35.png",
+                "type": "image",
+                "key": "player_35"
+            },
+            {
+                "url": "assets/images/player/player_4.png",
+                "type": "image",
+                "key": "player_4"
+            },
+            {
+                "url": "assets/images/player/player_5.png",
+                "type": "image",
+                "key": "player_5"
+            },
+            {
+                "url": "assets/images/player/player_6.png",
+                "type": "image",
+                "key": "player_6"
+            },
+            {
+                "url": "assets/images/player/player_7.png",
+                "type": "image",
+                "key": "player_7"
+            },
+            {
+                "url": "assets/images/player/player_8.png",
+                "type": "image",
+                "key": "player_8"
+            },
+            {
+                "url": "assets/images/player/player_9.png",
+                "type": "image",
+                "key": "player_9"
+            },
+            {
+                "url": "assets/images/power-bar-bg.png",
+                "type": "image",
+                "key": "power-bar-bg"
+            },
+            {
+                "url": "assets/images/power-bar-fill.png",
+                "type": "image",
+                "key": "power-bar-fill"
+            },
+            {
+                "url": "assets/images/power-bar-frame.png",
+                "type": "image",
+                "key": "power-bar-frame"
+            },
+            {
+                "url": "assets/images/signal.png",
+                "frameConfig": {
+                    "frameWidth": 47,
+                    "frameHeight": 26,
+                    "startFrame": 0,
+                    "endFrame": 1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "signal"
+            },
+            {
+                "url": "src/scripts/SocketManager.js",
+                "type": "script",
+                "key": "SocketManager"
+            },
+            {
+                "url": "src/scripts/SoundManager.js",
+                "type": "script",
+                "key": "SoundManager"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

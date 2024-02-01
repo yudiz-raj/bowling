@@ -1,0 +1,118 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"bottle": {
+		"type": "fromPhysicsEditor",
+		"label": "bottle",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": true,
+				"vertices": [
+					[
+						{
+							"x": 39,
+							"y": 44
+						},
+						{
+							"x": 45,
+							"y": 44
+						},
+						{
+							"x": 48,
+							"y": 36
+						},
+						{
+							"x": 48,
+							"y": 27
+						},
+						{
+							"x": 46,
+							"y": 23
+						},
+						{
+							"x": 37,
+							"y": 23
+						},
+						{
+							"x": 35,
+							"y": 28
+						},
+						{
+							"x": 36,
+							"y": 37
+						}
+					],
+					[
+						{
+							"x": 41,
+							"y": 2
+						},
+						{
+							"x": 38,
+							"y": 4
+						},
+						{
+							"x": 39,
+							"y": 12.75
+						},
+						{
+							"x": 44,
+							"y": 13
+						},
+						{
+							"x": 45,
+							"y": 4
+						}
+					],
+					[
+						{
+							"x": 39,
+							"y": 12.75
+						},
+						{
+							"x": 39,
+							"y": 16
+						},
+						{
+							"x": 44,
+							"y": 16
+						},
+						{
+							"x": 44,
+							"y": 13
+						}
+					],
+					[
+						{
+							"x": 44,
+							"y": 16
+						},
+						{
+							"x": 39,
+							"y": 16
+						},
+						{
+							"x": 37,
+							"y": 23
+						},
+						{
+							"x": 46,
+							"y": 23
+						}
+					]
+				]
+			}
+		]
+	}
+}
