@@ -10,6 +10,12 @@
     },
     "displayList": [
         {
+            "type": "Container",
+            "id": "6200f8a5-1195-47c1-a414-793ac0a0ee11",
+            "label": "container_border",
+            "scope": "CLASS"
+        },
+        {
             "type": "Image",
             "id": "916dccc3-3840-45f6-bd70-567aadfeff94",
             "label": "bowling_track",
@@ -152,12 +158,6 @@
                     "y": 1477
                 }
             ]
-        },
-        {
-            "type": "Container",
-            "id": "6200f8a5-1195-47c1-a414-793ac0a0ee11",
-            "label": "container_border",
-            "scope": "CLASS"
         },
         {
             "type": "Container",

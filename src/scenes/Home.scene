@@ -14,6 +14,11 @@
             "id": "cc6b4e7c-3f05-4992-ac78-fc97a2bcf7e4",
             "label": "button_play",
             "scope": "CLASS",
+            "hitArea.shape": "RECTANGLE",
+            "hitArea.x": 8,
+            "hitArea.y": -1,
+            "hitArea.width": 185.6313066701106,
+            "hitArea.height": 186.53337690068855,
             "texture": {
                 "key": "button-play"
             },

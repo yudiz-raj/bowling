@@ -1,9 +1,9 @@
 
 // You can write more code here
-import Phaser from "phaser";
+// import Phaser from "phaser";
 /* START OF COMPILED CODE */
 
-export default class Level extends Phaser.Scene {
+class Level extends Phaser.Scene {
 
 	constructor() {
 		super("Level");
@@ -15,6 +15,9 @@ export default class Level extends Phaser.Scene {
 
 	/** @returns {void} */
 	editorCreate() {
+
+		// container_border
+		const container_border = this.add.container(0, 0);
 
 		// bowling_track
 		const bowling_track = this.add.image(540, 1196, "bowling-track");
@@ -79,9 +82,6 @@ export default class Level extends Phaser.Scene {
 		const arrow_right = this.add.image(884, 1477, "arrow-right");
 		container_arrows.add(arrow_right);
 
-		// container_border
-		const container_border = this.add.container(0, 0);
-
 		// container_bottles
 		const container_bottles = this.add.container(0, 0);
 
@@ -106,6 +106,7 @@ export default class Level extends Phaser.Scene {
 		monitor_display.scaleY = 1.5;
 		container_monitor.add(monitor_display);
 
+		this.container_border = container_border;
 		this.bowling_track = bowling_track;
 		this.container_ball = container_ball;
 		this.player = player;
@@ -115,7 +116,6 @@ export default class Level extends Phaser.Scene {
 		this.effect_arrow_2 = effect_arrow_2;
 		this.container_effectArrow = container_effectArrow;
 		this.container_arrows = container_arrows;
-		this.container_border = container_border;
 		this.container_bottles = container_bottles;
 		this.signal = signal;
 		this.monitor_display = monitor_display;
@@ -123,6 +123,8 @@ export default class Level extends Phaser.Scene {
 		this.events.emit("scene-awake");
 	}
 
+	/** @type {Phaser.GameObjects.Container} */
+	container_border;
 	/** @type {Phaser.GameObjects.Image} */
 	bowling_track;
 	/** @type {Phaser.GameObjects.Container} */
@@ -141,8 +143,6 @@ export default class Level extends Phaser.Scene {
 	container_effectArrow;
 	/** @type {Phaser.GameObjects.Container} */
 	container_arrows;
-	/** @type {Phaser.GameObjects.Container} */
-	container_border;
 	/** @type {Phaser.GameObjects.Container} */
 	container_bottles;
 	/** @type {Phaser.GameObjects.Sprite} */
@@ -345,7 +345,6 @@ export default class Level extends Phaser.Scene {
 		ball.destroy();
 		const pin_binder = this.add.sprite(538, 350, "pin-binder", 0);
 		pin_binder.setScale(2);
-		console.log(ball);
 		pin_binder.anims.play("pinBinder-animation", true).once("animationcomplete", () => {
 			this.handlePinBinderAnimationComplete(pin_binder);
 		});
@@ -382,7 +381,6 @@ export default class Level extends Phaser.Scene {
 	}
 	handleBottleTimeout = () => {
 		this.container_bottles.list.forEach((bottle) => {
-			bottle.body.label = "bottle";
 			if (bottle.name != "falledBottle") {
 				this.tweens.add({
 					targets: bottle,
@@ -390,6 +388,9 @@ export default class Level extends Phaser.Scene {
 					duration: 1200,
 					ease: "Linear",
 					yoyo: true,
+					onComplete: () => {
+						bottle.body.label = "bottle";
+					}
 				});
 			}
 			if (bottle.name == "falledBottle") {
@@ -500,6 +501,7 @@ export default class Level extends Phaser.Scene {
 				bottle.setName("falledBottle");
 			}
 		}
+		// ball.destroy();
 	}
 	/* END-USER-CODE */
 }

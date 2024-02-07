@@ -1,10 +1,9 @@
 
 // You can write more code here
-import Phaser from "phaser";
-
+// import Phaser from "phaser";
 /* START OF COMPILED CODE */
 
-export default class Home extends Phaser.Scene {
+class Home extends Phaser.Scene {
 
 	constructor() {
 		super("Home");
@@ -19,6 +18,7 @@ export default class Home extends Phaser.Scene {
 
 		// button_play
 		const button_play = this.add.image(540, 1200, "button-play");
+		button_play.setInteractive(new Phaser.Geom.Rectangle(8, -1, 185.6313066701106, 186.53337690068855), Phaser.Geom.Rectangle.Contains);
 
 		this.button_play = button_play;
 
